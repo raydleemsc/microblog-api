@@ -72,6 +72,8 @@ packaging==23.0
     #   marshmallow
     #   marshmallow-sqlalchemy
     #   webargs
+psycopg2-binary==2.9.5
+    # via -r requirements.in
 pyjwt==2.6.0
     # via -r requirements.in
 python-dateutil==2.8.2
