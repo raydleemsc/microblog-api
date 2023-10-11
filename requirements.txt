@@ -14,7 +14,7 @@ apispec==6.0.2
     # via apifairy
 blinker==1.5
     # via flask-mail
-certifi==2023.5.7
+certifi==2023.7.22
     # via requests
 charset-normalizer==3.1.0
     # via requests
@@ -99,7 +99,7 @@ sqlalchemy==2.0.3
     #   marshmallow-sqlalchemy
 typing-extensions==4.4.0
     # via sqlalchemy
-urllib3==2.0.2
+urllib3==2.0.6
     # via requests
 webargs==8.2.0
     # via apifairy
