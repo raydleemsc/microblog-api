@@ -50,7 +50,7 @@ flask-sqlalchemy==3.0.3
     # via flask-migrate
 greenlet==2.0.2
     # via sqlalchemy
-gunicorn==20.1.0
+gunicorn==22.0.0
     # via -r requirements.in
 idna==3.4
     # via requests
