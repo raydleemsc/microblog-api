@@ -99,11 +99,11 @@ sqlalchemy==2.0.3
     #   marshmallow-sqlalchemy
 typing-extensions==4.4.0
     # via sqlalchemy
-urllib3==2.0.6
+urllib3==2.6.3
     # via requests
 webargs==8.2.0
     # via apifairy
-werkzeug==2.2.2
+werkzeug==3.1.5
     # via flask
 
 # The following packages are considered to be unsafe in a requirements file:
